@@ -1,0 +1,66 @@
+.footer{
+    background-color: #f5f4f4;
+    padding: 4% 8%;
+ margin-top: 12%;
+    
+}
+.logo{
+    text-align: justify;
+    display: flex;
+    flex-direction: column;
+}
+.logo p{
+    font-size: 16px;
+    padding: 20px 0;
+    color: #373030;
+    font-weight: 500;
+}
+.logo_list{
+    padding-top: 20px;
+}
+.logo_list .lists{
+    padding: 10px;
+}
+.logo_list .lists h5{
+    font-size: 25px;
+    font-weight: 800;
+}
+.logo_list .lists p{
+    padding-top: 17px;
+}
+.logo_list .lists p a{
+   text-decoration: none;
+    color: #373030;
+    font-size: 18px;
+   
+    font-weight: 500;
+}
+.footer_bottom{
+    margin-top: 20px;
+    text-align: center;
+}
+.footer_bottom .company_name p{
+    font-size: 18px;
+    color: #373030;
+    font-weight: 500;
+    transition: all linear;
+}
+.footer_bottom .company_name p .heart{
+   animation: heartbeat 0.5s infinite;
+   display: inline-block;
+   padding-left: 3px;
+   padding-right: 3px;
+}
+.footer_bottom .company_name p a{
+    text-decoration: none;
+    padding-left: 2px;
+}
+@keyframes heartbeat{
+    0%,30%,60%{
+        transform: scale(1);
+      }
+      15%,45%,75%,100% {
+        transform: scale(1.3);
+      }
+     
+}

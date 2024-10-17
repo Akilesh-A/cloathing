@@ -1,0 +1,52 @@
+#login{
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin-top: 5%;
+    padding: 50px;
+
+}
+#login .container{
+    width: 600px;
+    /* border: 1px solid red; */
+    padding: 0 16px;
+}
+#login .container .section-header{
+    text-align: center;
+    font-size: 36px;
+    font-weight: 800;
+    letter-spacing: 1.5px;
+    
+}
+
+#form label{
+    display: block;
+    margin-right: 591px;
+    font-size: 16px;
+    margin-bottom: 3px;
+}
+#form input{
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+.submitForm{
+    margin-top: 10px;
+}
+.submitForm button{
+    padding: 10px 30px;
+    background-color: rgb(52, 51, 51);
+    color: aliceblue;
+    border-radius: 10px;
+}
+.newCustomer{
+    margin-top: 20px;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 600;
+    color: rgb(13, 13, 13);
+}

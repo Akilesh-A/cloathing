@@ -1,0 +1,99 @@
+[
+    {
+      "name": "Miley Triangle Hair Scarf",
+      "price": 899,
+      "description": "Elegant floral print maxi dress for special occasions.",
+      "ratings": 4.8,
+      "images": [
+        { "image": "/images/products/1.jpg" }
+      ],
+      "category": "scarf",
+      "seller": "FashionNova",
+      "stock": 10
+    },
+    {
+      "name": "Ultimate Crop Bandeau Tops",
+      "price": 249.50,
+      "description": "Tailored slim fit suit for a sophisticated look.",
+      "ratings": 4.5,
+      "images": [
+        { "image": "/images/products/2.jpg" }
+      ],
+      "category": "top",
+      "seller": "Hugo Boss",
+      "stock": 5
+    },
+    {
+      "name": "Pieces Short Sleeve Sweater",
+      "price": 1899,
+      "description": "Luxurious leather crossbody bag for everyday use.",
+      "ratings": 4.2,
+      "images": [
+        { "image": "/images/products/3.jpg" }
+      ],
+      "category": "sweater",
+      "seller": "Louis Vuitton",
+      "stock": 8
+    },
+    {
+      "name": "Simona Ribbed Cardigan",
+      "price": 799,
+      "description": "Classic vintage aviator sunglasses for a stylish look.",
+      "ratings": 4.6,
+      "images": [
+        { "image": "/images/products/4.jpg" }
+      ],
+      "category": "pants",
+      "seller": "Ray-Ban",
+      "stock": 15
+    },
+    {
+      "name": "Oversized T-shirt Multi-colors",
+      "price": 1299,
+      "description": "Chic high heel sandals for evening wear.",
+      "ratings": 4.0,
+      "images": [
+        { "image": "/images/products/5.jpg" }
+      ],
+      "category": "t-shirt",
+      "seller": "Jimmy Choo",
+      "stock": 12
+    },
+    {
+      "name": "Jacket With Hood In Stone",
+      "price": 26000,
+      "description": "Stylish leather jacket for a rugged yet refined look.",
+      "ratings": 4.7,
+      "images": [
+        { "image": "/images/products/6.jpg" }
+      ],
+      "category": "Jacjet",
+      "seller": "Zara",
+      "stock": 6
+    },
+    {
+      "name": "Butterfly Charm Hoop Earrings",
+      "price": 299,
+      "description": "Lightweight chiffon scarf for all-season accessorizing.",
+      "ratings": 3.9,
+      "images": [
+        { "image": "/images/products/7.jpg" }
+      ],
+      "category": "Accessories",
+      "seller": "H&M",
+      "stock": 20
+    },
+    {
+      "name": "Denim Jacket Sun Bleached",
+      "price": 7499,
+      "description": "Lightweight chiffon scarf for all-season accessorizing.",
+      "ratings": 3.9,
+      "images": [
+        { "image": "/images/products/8.jpg" }
+      ],
+      "category": "jacket",
+      "seller": "H&M",
+      "stock": 20
+    }
+  ]
+  

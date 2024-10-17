@@ -1,0 +1,35 @@
+.cartContent{
+    margin-bottom: 20px;
+}
+.cartContainer h2{
+    padding-bottom: 20px;
+}
+.cartLinks,.cartPrice,.cartInput,.cartDelete{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cartDelete{
+    padding-bottom: 20px;
+}
+.cartImages img{
+    width: 100%;
+    
+}
+.cartLinks a{
+    text-decoration: none;
+    color: #181818;
+}
+.cartPrice p{
+    font-size: 25px;
+    font-weight: bold;
+}
+.stockCounter input{
+    width: 80px;
+   
+}
+#order_summary{
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 20px;
+}

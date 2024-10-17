@@ -1,0 +1,35 @@
+.total-header{
+    background-color: #f2f2f2;
+}
+.header-logo img{
+    width: 20%;
+}
+.header-socialIcons{
+    text-align: left;
+}
+.header-cartItems{
+    text-align: right;
+}
+.header-socialIcons,.header-cartItems{
+    padding-top: 20px;
+}
+.header-socialIcons a,.header-cartItems a{
+    margin-right: 10px;
+    font-size: 20px;
+    color: black;
+}
+.header-bottom-nav{
+   padding: 20px 0px;
+}
+.header-bottom-nav a{
+    font-size: 20px;
+    color: black;
+    margin-left: 40px;
+    text-decoration: none;
+}
+@media screen and (max-width:767px) {
+    .header-logo img{
+        width: 100%;
+    }
+    
+}

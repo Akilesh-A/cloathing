@@ -1,0 +1,401 @@
+[
+    {
+        "name": "Retro Sunglasses",
+        "price": 225,
+        "description": "Vintage-inspired sunglasses with modern UV protection. Perfect for stylish sunny days.",
+        "ratings": 4.5,
+        "images": [
+            { "image": "/images/shop/1.jpg" }
+        ],
+        "category": "Accessories",
+        "seller": "SunStyle",
+        "stock": 20
+    },
+    {
+        "name": "Miley Triangle Hair Scarf",
+        "price": 899,
+        "description": "Chic hair scarf with a floral pattern. Adds elegance to any outfit.",
+        "ratings": 4,
+        "images": [
+            { "image": "/images/shop/2.jpg" }
+        ],
+        "category": "Accessories",
+        "seller": "HairTrends",
+        "stock": 30
+    },
+    {
+        "name": "Platform Canvas Sneakers",
+        "price": 770,
+        "description": "Comfortable and stylish canvas sneakers with a platform sole.",
+        "ratings": 4.3,
+        "images": [
+            { "image": "/images/shop/3.jpg" }
+        ],
+        "category": "Accessories",
+        "seller": "FootFashion",
+        "stock": 15
+    },
+    {
+        "name": "Quilted Heeled Mule Sandal",
+        "price": 1128,
+        "description": "Elegant mule sandals with a quilted design. Perfect for any formal occasion.",
+        "ratings": 4.6,
+        "images": [
+            { "image": "/images/shop/4.jpg" }
+        ],
+        "category": "Woman",
+        "seller": "ShoeElegance",
+        "stock": 25
+    },
+    {
+        "name": "Ultimate Crop Bandeau Tops",
+        "price": 589,
+        "description": "Trendy crop bandeau tops for a stylish look.",
+        "ratings": 3.8,
+        "images": [
+            { "image": "/images/shop/5.jpg" }
+        ],
+        "category": "Woman",
+        "seller": "FashionChic",
+        "stock": 18
+    },
+    {
+        "name": "Adilette Slide Sandal",
+        "price": 280,
+        "description": "Comfortable slide sandals perfect for casual outings.",
+        "ratings": 4.45,
+        "images": [
+            { "image": "/images/shop/6.jpg" }
+        ],
+        "category": "Accessories",
+        "seller": "CasualStyle",
+        "stock": 22
+    },
+    {
+        "name": "Pieces Short Sleeve Sweater",
+        "price": 2025,
+        "description": "Elegant short sleeve sweater for casual and formal wear.",
+        "ratings": 4.1,
+        "images": [
+            { "image": "/images/shop/7.jpg" }
+        ],
+        "category": "Woman",
+        "seller": "ElegantWear",
+        "stock": 12
+    },
+    {
+        "name": "Simona Ribbed Cardigan",
+        "price": 5007,
+        "description": "Stylish ribbed cardigan for a cozy feel.",
+        "ratings": 4.5,
+        "images": [
+            { "image": "/images/shop/8.jpg" }
+        ],
+        "category": "Woman",
+        "seller": "CozyFashion",
+        "stock": 10
+    },
+    {
+        "name": "Oversized T-shirt Multi-colors",
+        "price": 3879,
+        "description": "Oversized T-shirt with vibrant multi-color design.",
+        "ratings": 4.6,
+        "images": [
+            { "image": "/images/shop/9.jpg" }
+        ],
+        "category": "Woman",
+        "seller": "ColorWear",
+        "stock": 14
+    },
+    {
+        "name": "Classic Oversized Sweatshirt",
+        "price": 1987,
+        "description": "Comfortable oversized sweatshirt with a classic design.",
+        "ratings": 4.7,
+        "images": [
+            { "image": "/images/shop/10.jpg" }
+        ],
+        "category": "Woman",
+        "seller": "ComfortWear",
+        "stock": 16
+    },
+    {
+        "name": "Straw Floppy Hat",
+        "price": 1000,
+        "description": "Stylish straw floppy hat for sunny days.",
+        "ratings": 4.8,
+        "images": [
+            { "image": "/images/shop/11.jpg" }
+        ],
+        "category": "Accessories",
+        "seller": "SunStyle",
+        "stock": 10
+    },
+    {
+        "name": "Cat-Eye Glasses 20257",
+        "price": 1500,
+        "description": "Fashionable cat-eye glasses for a chic look.",
+        "ratings": 4.8,
+        "images": [
+            { "image": "/images/shop/12.jpg" }
+        ],
+        "category": "Accessories",
+        "seller": "EyeFashion",
+        "stock": 8
+    },
+    {
+        "name": "Pride Sport Hip Pack",
+        "price": 5000,
+        "description": "Sporty hip pack for carrying essentials.",
+        "ratings": 4.4,
+        "images": [
+            { "image": "/images/shop/13.jpg" }
+        ],
+        "category": "Bags",
+        "seller": "SportGear",
+        "stock": 20
+    },
+    {
+        "name": "Dance Bag Nylon",
+        "price": 4700,
+        "description": "Durable nylon dance bag for carrying dance gear.",
+        "ratings": 4.3,
+        "images": [
+            { "image": "/images/shop/14.jpg" }
+        ],
+        "category": "Bags",
+        "seller": "DanceEssentials",
+        "stock": 17
+    },
+    {
+        "name": "Knit Dress In Green",
+        "price": 500,
+        "description": "Elegant knit dress in green, perfect for any occasion.",
+        "ratings": 4.7,
+        "images": [
+            { "image": "/images/shop/15.jpg" }
+        ],
+        "category": "Woman",
+        "seller": "GreenElegance",
+        "stock": 12
+    },
+    {
+        "name": "Beanie In Chocolate Brown",
+        "price": 1200,
+        "description": "Cozy beanie in chocolate brown for a warm feel.",
+        "ratings": 4.4,
+        "images": [
+            { "image": "/images/shop/16.jpg" }
+        ],
+        "category": "Woman",
+        "seller": "WarmWear",
+        "stock": 18
+    },
+    {
+        "name": "Relaxed Gym Tank Top",
+        "price": 1700,
+        "description": "Comfortable gym tank top for relaxed workouts.",
+        "ratings": 4.5,
+        "images": [
+            { "image": "/images/shop/17.jpg" }
+        ],
+        "category": "Woman",
+        "seller": "GymGear",
+        "stock": 15
+    },
+    {
+        "name": "Oversized Graphic Sweatshirt",
+        "price": 1300,
+        "description": "Trendy oversized graphic sweatshirt.",
+        "ratings": 4.7,
+        "images": [
+            { "image": "/images/shop/18.jpg" }
+        ],
+        "category": "Woman",
+        "seller": "TrendFashion",
+        "stock": 14
+    },
+    {
+        "name": "Hoodie In Blue",
+        "price": 2100,
+        "description": "Cozy blue hoodie for a comfortable feel.",
+        "ratings": 4.6,
+        "images": [
+            { "image": "/images/shop/19.jpg" }
+        ],
+        "category": "Man",
+        "seller": "ComfortWear",
+        "stock": 16
+    },
+    {
+        "name": "Jacket With Hood In Stone",
+        "price": 2987,
+        "description": "Stylish jacket with a hood in stone color.",
+        "ratings": 4.8,
+        "images": [
+            { "image": "/images/shop/20.jpg" }
+        ],
+        "category": "Men",
+        "seller": "StoneWear",
+        "stock": 10
+    },
+    {
+        "name": "Slim Formal Shirt In White",
+        "price": 2140,
+        "description": "Elegant slim formal shirt in white.",
+        "ratings": 3.5,
+        "images": [
+            { "image": "/images/shop/21.jpg" }
+        ],
+        "category": "Men",
+        "seller": "FormalFashion",
+        "stock": 12
+    },
+    {
+        "name": "Tapered Pants In Camel",
+        "price": 3000,
+        "description": "Stylish tapered pants in camel color.",
+        "ratings": 4.6,
+        "images": [
+            { "image": "/images/shop/22.jpg" }
+        ],
+        "category": "Men",
+        "seller": "CamelWear",
+        "stock": 14
+    },
+    {
+        "name": "Sleeve Flower Print Reverel",
+        "price": 900,
+        "description": "Elegant flower print top with sleeves.",
+        "ratings": 4.6,
+        "images": [
+            { "image": "/images/shop/23.jpg" }
+        ],
+        "category": "Men",
+        "seller": "FloralFashion",
+        "stock": 16
+    },
+    {
+        "name": "Color Block Bucket Hat",
+        "price": 2100,
+        "description": "Trendy animal print skirt for a bold look.",
+        "ratings": 4.7,
+        "images": [
+            { "image": "/images/shop/24.jpg" }
+        ],
+        "category": "Men",
+        "seller": "BoldFashion",
+        "stock": 12
+    },
+    {
+        "name": "Cargo Pants With Front Pocket",
+        "price": 210,
+        "description": "Trendy animal print skirt for a bold look.",
+        "ratings": 4.7,
+        "images": [
+            { "image": "/images/shop/25.jpg" }
+        ],
+        "category": "Men",
+        "seller": "BoldFashion",
+        "stock": 12
+    },
+    {
+        "name": "Butterfly Charm Hoop Earrings",
+        "price": 1000,
+        "description": "Trendy animal print skirt for a bold look.",
+        "ratings": 4,
+        "images": [
+            { "image": "/images/shop/26.jpg" }
+        ],
+        "category": "Accessories",
+        "seller": "BoldFashion",
+        "stock": 8
+    },
+    {
+        "name": "Row Clear Cz Ring",
+        "price": 100,
+        "description": "Trendy animal print skirt for a bold look.",
+        "ratings": 4,
+        "images": [
+            { "image": "/images/shop/27.jpg" }
+        ],
+        "category": "Accessories",
+        "seller": "BoldFashion",
+        "stock": 8
+    },
+    {
+        "name": "Pin Clear Cz Ring",
+        "price": 710,
+        "description": "Trendy animal print skirt for a bold look.",
+        "ratings": 4,
+        "images": [
+            { "image": "/images/shop/28.jpg" }
+        ],
+        "category": "Accessories",
+        "seller": "BoldFashion",
+        "stock": 8
+    },
+    {
+        "name": "Gold Tone Clear Cz Ring",
+        "price": 106,
+        "description": "Trendy animal print skirt for a bold look.",
+        "ratings": 4,
+        "images": [
+            { "image": "/images/shop/29.jpg" }
+        ],
+        "category": "Accessories",
+        "seller": "BoldFashion",
+        "stock": 8
+    },
+    {
+        "name": "Gold Tone Star & Moon Bracelet",
+        "price": 1660,
+        "description": "Trendy animal print skirt for a bold look.",
+        "ratings": 4,
+        "images": [
+            { "image": "/images/shop/30.jpg" }
+        ],
+        "category": "Accessories",
+        "seller": "BoldFashion",
+        "stock": 8
+    },
+    {
+        "name": "Clear Cz Floral Letter Necklace",
+        "price": 1950,
+        "description": "Trendy animal print skirt for a bold look.",
+        "ratings": 4,
+        "images": [
+            { "image": "/images/shop/31.jpg" }
+        ],
+        "category": "Accessories",
+        "seller": "BoldFashion",
+        "stock": 8
+    },
+    {
+        "name": "Adjustable Bowline Necklace",
+        "price": 860,
+        "description": "Trendy animal print skirt for a bold look.",
+        "ratings": 4,
+        "images": [
+            { "image": "/images/shop/32.jpg" }
+        ],
+        "category": "Accessories",
+        "seller": "BoldFashion",
+        "stock": 8
+    },
+    {
+        "name": "Denim Jacket Sun Bleached",
+        "price": 1990,
+        "description": "Trendy animal print skirt for a bold look.",
+        "ratings": 4.9,
+        "images": [
+            { "image": "/images/shop/32.jpg" }
+        ],
+        "category": "Woman",
+        "seller": "BoldFashion",
+        "stock": 8
+    }
+
+
+  
+]

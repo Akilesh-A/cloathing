@@ -1,0 +1,30 @@
+.total_search{
+    padding-top: 30px;
+    row-gap: 15px;
+}
+#searchContainer{
+    width: 85%;
+}
+.search_bar input{
+    width: 80%;
+    padding: 7px 7px;  
+    border: 1px solid rgba(0,0,0,.125);    
+    border-radius: 7px 0 0 7px;
+}
+.search_bar input:focus-visible{
+    outline: none;
+}
+.search_bar button{
+    width: 20%;
+    padding: 8px 0px;
+    background-color: rgb(216, 214, 214);
+   border: none;
+    border-radius: 0 7px 7px 0;
+}
+.search_bar button i{
+    font-size: 20px;
+}
+.search_filter select,.sort_by select{
+    padding: 10px 0px;
+    width: 100%;   
+}
