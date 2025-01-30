@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom';
 function ShopProducts({shopProduct}) {
   return (
    
-      <div className="col-md-4 my-3">
+      <div   className="col-md-4 my-3">
       <div className="card cards_container ">
         <a href="">
           <img

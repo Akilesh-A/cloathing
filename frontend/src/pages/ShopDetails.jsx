@@ -44,9 +44,9 @@ function ShopDetails({cartItems,setCartItems}) {
     
   }
 
-  // if (!product) {
-  //   return <div>Loading...</div>;
-  // }
+  if (!product) {
+    return <div>Loading...</div>;
+  }
 
   return (
    product&& <div className="container container-fluid">

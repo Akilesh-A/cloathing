@@ -6,7 +6,7 @@ import Search from "../components/Search/Search";
 import Collection from "./Collection";
 import InstaFeed from "./InstaFeed";
 import { useSearchParams } from "react-router-dom";
-// import Modal from "../components/Modal/Modal"; 
+// import Modal from "../components/Modal/Modal";
 // import Signup from "../pages/Signup"
 
 function Home() {
@@ -23,8 +23,6 @@ function Home() {
         console.log(res.products);
       });
   }, [searchParams]);
-
-
 
   return (
     <div>
@@ -43,8 +41,6 @@ function Home() {
       </section>
       <Collection />
       <InstaFeed />
-      
-   
     </div>
   );
 }
